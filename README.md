@@ -8,7 +8,8 @@ Some goals for input and output:
 
 Ex 1:
 Input: 'https://data-fairfaxcountygis.opendata.arcgis.com/search'
-Output: a csv file that can be read into a dataframe. The dataframe would contain the table from the website
+
+Output: The names of all the datasets contained in this website
 
 
 Outline:
